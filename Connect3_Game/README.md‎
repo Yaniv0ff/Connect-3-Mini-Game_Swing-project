@@ -1,0 +1,3 @@
+## Compile & Run
+javac Connect3_Game/*.java
+java Connect3_Game.Connect3App
