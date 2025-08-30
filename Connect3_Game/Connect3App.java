@@ -167,7 +167,7 @@ public class Connect3App extends JFrame {
         panel.setPlayerColors(playerColor, botColor);
     }
 
-    // Opening screen: Explanation % Customization
+    // Opening screen: Explanation & Customization
     private void pickColorsDialog() {
         Color[] options = new Color[]{Color.RED, Color.BLUE, Color.GREEN, Color.YELLOW};
         String[] names  = new String[]{"Red","Blue","Green", "Yellow"};
@@ -232,6 +232,7 @@ public class Connect3App extends JFrame {
         }
     }
 }
+
 
 
 
